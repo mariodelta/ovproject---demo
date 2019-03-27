@@ -1,0 +1,39 @@
+.content h3 {
+    text-align: center;
+    margin-top: 25px;
+}
+.content p {
+    text-align: center;
+}
+
+.content .dropdown  {
+    margin-top: 75px;
+    margin-left: 600px;
+}
+
+.dropdown-trigger label {
+    margin-top: 5px;
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+.control button {
+    margin-left: 10px;
+}
+
+.items {
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    width: 650px;
+    margin-left: 500px;
+}
+
+.depature {
+    margin-top: 10px;
+}
+
+
+
+
+
+

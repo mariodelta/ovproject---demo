@@ -1,0 +1,8 @@
+.account {
+    float: right;
+}
+
+.navbar-item a {
+    list-style: none;
+    text-decoration: none;
+}
